@@ -93,13 +93,21 @@ print('RMSE = ',rmse)
 
 ## Output:
 ![360489130-879f49da-3cc1-463b-a7bb-08464bfa3114](https://github.com/user-attachments/assets/8d4bb1f2-70b0-4072-b5c4-8c7290fbe7b0)
+
 ![360489330-3bbfa022-04ca-4651-aadb-a3e40fdd9d31](https://github.com/user-attachments/assets/9a1a7d43-88c1-4e22-9268-f0765dc924c5)
+
 ![360489464-f2d3f0df-76f1-4cdf-80ba-80ad538945bb](https://github.com/user-attachments/assets/1bfe959a-3727-4381-9bb7-5d4475c59e7b)
+
 ![360489572-29722a89-7e72-44d6-8d37-71a99fc16662](https://github.com/user-attachments/assets/2a8275e0-a06a-45be-bd69-6c4c138de7b0)
+
 ![360489692-56e296ee-b0bb-4f9b-a6d9-4f880ace5e9d](https://github.com/user-attachments/assets/335f40e1-4108-4dc8-a2b0-91ef47099a47)
+
 ![360489819-53e0ed7e-504b-40d2-b74d-14f812e8b764](https://github.com/user-attachments/assets/a79e157d-3e7d-4a08-8938-3dba8148f512)
+
 ![360489950-de5e4a15-fdcc-441a-a340-18c4101c72da](https://github.com/user-attachments/assets/efaf99b8-d7dc-4e87-b972-c45412ca0f9c)
+
 ![360490087-eb62ce4c-13d8-4c3e-aa30-c3bbf146d2e5](https://github.com/user-attachments/assets/80fadfd8-f625-4ec5-837d-123ce63e31dc)
+
 ![360490229-0a16e2a6-437d-42b6-a6d4-e8093e5d64cc](https://github.com/user-attachments/assets/d1ddc759-6b02-4e48-a9bf-e937ba5af0f3)
 
 
